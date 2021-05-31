@@ -1,4 +1,4 @@
-/ * Dep3_Progr6: que cuente el número de veces que ahorras y nos diga el acumulado de ahorro * /
+
 #include <stdio.h>
 int main ()
 {

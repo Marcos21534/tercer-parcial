@@ -22,7 +22,6 @@ int main ()
     } while (respuesta! = 'n');
     printf ("\ n Dinero que tienes en el banco% d", banco);
     printf ("\ n Número de depósitos% d", numdepositos); 
-    / * No encontré el error ni solucion del programa * /
     return 0;
     
 } 
